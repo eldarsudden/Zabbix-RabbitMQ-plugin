@@ -1,0 +1,11 @@
+hosts:
+
+  #myhost:
+  #  username: myuser
+  #  password: mypass
+
+defaults:
+    username: zabbix
+    password: zabbix
+    port: 15672
+    ttl: 45
